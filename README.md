@@ -4,10 +4,10 @@
 ## 文件说明  
 1. CRNN: 包含CRNN架构模型  
 2. CRNN_model: 包含已训练的针对汉字日期以及数字识别模型  
-   模型链接：[阿里云盘](https://www.aliyundrive.com/s/YySToVjVPoe) [Google Drive](https://drive.google.com/drive/folders/1CFXPSx7HKxrQfYx4MEQR4wN4NhnJPp78?usp=sharing)  
+   模型链接：[阿里云盘](https://www.aliyundrive.com/s/YySToVjVPoe)  [Google Drive](https://drive.google.com/drive/folders/1CFXPSx7HKxrQfYx4MEQR4wN4NhnJPp78?usp=sharing)  
 3. CTPN：包含CTPN构架模型
 4. CTPN_model：包含已训练的针对目标检测模型  
-   模型链接：[阿里云盘](https://www.aliyundrive.com/s/Nby8cpdgadz)[Google Drive](https://drive.google.com/drive/folders/1WtgV501g2j6PjNdsa37zTPJz-LHUk7_q?usp=sharing)
+   模型链接：[阿里云盘](https://www.aliyundrive.com/s/Nby8cpdgadz)  [Google Drive](https://drive.google.com/drive/folders/1WtgV501g2j6PjNdsa37zTPJz-LHUk7_q?usp=sharing)
 5. icon 文件夹：系统内的图标和图案  
 6. MICR 文件夹：包含 MICR 架构模型  
 7. MICR_model：包含 MICR 模型  
